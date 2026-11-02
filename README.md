@@ -13,3 +13,8 @@ Repo ini dibuat untuk memenuhi tugas Standarisasi coding tentang pengenalan vers
 - Memahami alur kerja dasar git (init, add, commit, log)
 - Menerapkan standar penulisan commit message
 - Menggunakan `.gitignore` untuk mengecualikan file tertentu
+
+## Riwayat Pengembangan
+1. Commit 1: Membuat README awal
+2. Commit 2: Menambakan .gitignore
+3. Commit 3: Menambahkan bagian riwayat pengembangan
